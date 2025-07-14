@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Shah Donishyar</h1>
+<!-- Profile Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Banner Animation">
+</p>
 <h3 align="center">Experienced Frontend Developer | React, Vue, Laravel, Webflow</h3>
 
 <p align="center">
