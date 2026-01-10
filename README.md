@@ -27,7 +27,7 @@
 
 ### 💻 About Me
 
-- 🧠 Frontend Developer with **6+ years** of hands-on experience in building web UIs
+- 🧠 Frontend Developer with **4+ years** of hands-on experience in building web UIs
 - 🛠 Skilled in **React**, **Vue**, **Laravel**, **Webflow**, and **modern UI/UX practices**
 - 🧑‍💼 Worked on **ERP, SaaS**, eCommerce, CMS, and Web3 platforms
 - 🚀 Strong contributor to **responsive**, **accessible**, and **performance-optimized** interfaces
